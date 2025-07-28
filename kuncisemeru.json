@@ -29,5 +29,13 @@
     "allowOffline": false
   }
 
+  {
+    "id": "c922dc630c50fcd4",
+    "username": "biniw",
+    "password": "biniw",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  }
+
   
 ]
