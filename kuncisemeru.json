@@ -11,14 +11,14 @@
     "username": "edibotol",
     "password": "edibotol",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 {
     "id": "421fcab21c2f6ee8",
     "username": "kelmiganteng",
     "password": "kelmiganteng",
     "expiresAt": "2025-10-31",
-    "allowOffline": false
+    "allowOffline": true
   }
 
   {
@@ -26,7 +26,7 @@
     "username": "ucupganteng",
     "password": "ucupganteng",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
+    "allowOffline": true
   }
 
   {
@@ -34,7 +34,7 @@
     "username": "biniw",
     "password": "biniw",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
+    "allowOffline": true
   }
 
   
