@@ -19,6 +19,14 @@
     "password": "Kelmiganteng",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  }
+
+  {
+    "id": "61a866de53c7f66f",
+    "username": "ucupganteng",
+    "password": "ucupganteng",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   },
 
   
