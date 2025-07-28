@@ -13,7 +13,7 @@
     "username": "biniw",
     "password": "biniw",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": false
   }
 
   {
@@ -21,7 +21,7 @@
     "username": "anakw",
     "password": "anakw",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": false
   }
 
 
